@@ -1,5 +1,5 @@
 # Digital-Media-Store-Sales-Analysis
-This project is centered on analyzing a database storing a digital media store's product, customer, employee, and transaction information. Relevant information will be queried from the database and visualized in order to answer the following questions:
+This project is centered on analyzing a relational database storing a digital media store's product, customer, employee, and transaction information. Relevant information will be queried from the database and visualized in order to answer the following questions:
 - Which albums should be purchased in the future to retain or improve sales?
 - Which employees generate the most sales? How does this compare to other employees?
 - Which countries have the most potential for growth in sales?
